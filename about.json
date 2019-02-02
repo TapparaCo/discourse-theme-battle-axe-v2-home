@@ -2,5 +2,18 @@
   "name": "Battle Axe Home 2.0",
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2/blob/master/LICENSE.md",
-  "color_schemes": {}
+  "color_schemes": {
+    "Battle Axe v2 Home": {
+      "primary": "000000",
+      "secondary": "081B35",
+      "tertiary": "FF812E",
+      "quaternary": "FF812E",
+      "header_background": "BA4B00",
+      "header_primary": "ffffff",
+      "highlight": "ffff4d",
+      "danger": "b30210",
+      "success": "009900",
+      "love": "ff6600"
+    }
+  }
 }
