@@ -4,7 +4,7 @@
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2/blob/master/LICENSE.md",
   "color_schemes": {
     "Battle Axe v2 Home": {
-      "primary": "ffffff",
+      "primary": "f3f3f3",
       "secondary": "081B35",
       "tertiary": "FF812E",
       "quaternary": "FF812E",
