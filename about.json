@@ -1,19 +1,19 @@
 {
-  "name": "Battle Axe Home 2.0",
+  "name": "Kotipaita 2.0",
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2/blob/master/LICENSE.md",
   "color_schemes": {
-    "Battle Axe v2 Home": {
-      "primary": "f3f3f3",
-      "secondary": "081B35",
-      "tertiary": "FF812E",
-      "quaternary": "FF812E",
-      "header_background": "BA4B00",
+    "Kotipaita 2.0": {
+      "primary": "ffffff",
+      "secondary": "18263a",
+      "tertiary": "eb5f05",
+      "quaternary": "eb5f05",
+      "header_background": "eb5f05",
       "header_primary": "ffffff",
       "highlight": "ffff4d",
       "danger": "b30210",
       "success": "009900",
-      "love": "ff6600"
+      "love": "eb5f05"
     }
   }
 }
