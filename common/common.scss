@@ -7,3 +7,18 @@
 div#upcloud-bottom svg {
   fill: #ffffff
 }
+
+// Last Visit separator re-coloring
+.topic-list .topic-list-item-separator td {
+  border-bottom: 1px solid #eb5f05;
+  line-height: 0.1em;
+  padding: 0px;
+  text-align: center;
+}
+
+.topic-list .topic-list-item-separator td span {
+  background-color: #18263a;
+  color: #eb5f05;
+  padding: 0px 8px;
+  font-size: 0.929em;
+}
