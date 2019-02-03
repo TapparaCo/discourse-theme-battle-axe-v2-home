@@ -1,9 +1,9 @@
 {
-  "name": "Kotipaita 2.0",
+  "name": "Battle Axe 2.0 Home",
   "about_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2",
   "license_url": "https://github.com/TapparaCo/discourse-theme-battle-axe-home-v2/blob/master/LICENSE.md",
   "color_schemes": {
-    "Kotipaita 2.0": {
+    "Battle Axe 2.0 Home Colors": {
       "primary": "ffffff",
       "secondary": "18263a",
       "tertiary": "eb5f05",
