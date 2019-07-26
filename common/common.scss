@@ -5,7 +5,7 @@
 
 // UpCloud footer ad color
 div#upcloud-bottom svg {
-  fill: #ffffff
+  fill: #ffffff;
 }
 
 // Last Visit separator re-coloring
@@ -28,7 +28,9 @@ div#upcloud-bottom svg {
   color: #fdfbf9;
 }
 
-.header-dropdown-toggle .flagged-posts, .header-dropdown-toggle .queued-posts, .header-dropdown-toggle .reviewables {
+.header-dropdown-toggle .flagged-posts,
+.header-dropdown-toggle .queued-posts,
+.header-dropdown-toggle .reviewables {
   background: #b70614;
   border: 1px solid #fff;
   color: #fff;
