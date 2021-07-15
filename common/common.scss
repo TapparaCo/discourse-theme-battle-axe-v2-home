@@ -11,12 +11,12 @@ div#upcloud-bottom svg {
 // Last Visit separator re-coloring
 .topic-list .topic-list-item-separator td,
 .topic-post-visited-line {
-  border-bottom: 1px solid #eb5f05;
+  border-bottom: 1px solid #eb5f05 !important;
 }
 
 .topic-list .topic-list-item-separator td span,
 .topic-post-visited-message {
-  color: #eb5f05;
+  color: #eb5f05 !important;
 }
 
 .d-header-icons .unread-notifications {
