@@ -9,18 +9,14 @@ div#upcloud-bottom svg {
 }
 
 // Last Visit separator re-coloring
-.topic-list .topic-list-item-separator td {
+.topic-list .topic-list-item-separator td,
+.topic-post-visited-line {
   border-bottom: 1px solid #eb5f05;
-  line-height: 0.1em;
-  padding: 0px;
-  text-align: center;
 }
 
-.topic-list .topic-list-item-separator td span {
-  background-color: #0b264c;
+.topic-list .topic-list-item-separator td span,
+.topic-post-visited-message {
   color: #eb5f05;
-  padding: 0px 8px;
-  font-size: 0.929em;
 }
 
 .d-header-icons .unread-notifications {
