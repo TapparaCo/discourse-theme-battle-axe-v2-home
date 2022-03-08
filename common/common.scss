@@ -10,12 +10,17 @@ div#upcloud-bottom svg {
 
 // Last Visit separator re-coloring
 .topic-list .topic-list-item-separator td,
-.topic-post-visited-line {
+.topic-post-visited-line,
+.chat-message-separator {
   border-bottom: 1px solid #eb5f05 !important;
 }
 
 .topic-list .topic-list-item-separator td span,
-.topic-post-visited-message {
+.topic-post-visited-message,
+.chat-message-separator {
+  color: #eb5f05 !important;
+}
+.chat-message-separator.divider {
   color: #eb5f05 !important;
 }
 
